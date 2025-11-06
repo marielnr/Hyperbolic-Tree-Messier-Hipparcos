@@ -1,5 +1,7 @@
 🌌 Catálogo Cósmico Hiperbólico: Visualización del Universo con d3-hypertree
 
+https://marielnr.github.io/Hyperbolic-Tree-Messier-Hipparcos/
+
 Este proyecto implementa una **Visualización de Árbol Hiperbólico** interactiva para explorar datos astronómicos (como el Catálogo Messier) utilizando la librería JavaScript `d3-hypertree`.
 
 La librería utiliza **geometría hiperbólica** para mapear una jerarquía densa de datos en un espacio 2D (el Disco de Poincaré), permitiendo una exploración detallada sin la sensación de hacinamiento que se da en los gráficos de árbol planos.
